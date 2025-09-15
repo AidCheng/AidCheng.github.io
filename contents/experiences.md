@@ -4,7 +4,7 @@
 - Developed custom Rust APIs for with comprehensive test coverage.
 - Designed GPG key verification model and service and integrated into merge-checker pipeline for authentication.
 
-#### Intel Corp, Student Developer, Audio Spectrum Analyser with LLM 
+#### Intel Corp, Student Developer
 - Developed an audio signal processing Electron app leveraging Intel’s NPU and GPU acceleration, designed to
 respond different visual effects to hand gestures and audio frequencies.
 - Implemented Three.JS shader to render interactive particle effect and respond to the auditory output.
