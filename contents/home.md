@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/AidCheng-github-blue?logo=github)](https://github.com/AidCheng)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Aiden is currently pursuing his undergraduate degree at University College London (UCL)
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: runze.cheng.23[at]ucl.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+BSc, Computer Science, University College London, 2023 - 2026
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Neural Computing, Computer Graphics, Rendering Optimisation.
 
