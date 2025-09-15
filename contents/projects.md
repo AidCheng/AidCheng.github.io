@@ -1,6 +1,6 @@
 #### Research
 
-- Foveated Variation Autoencoder (F-VAE) for high-fedelity video compression. (UCL FYP, *supervised* by Dr. Kaan Aksit)
+- Foveated Variation Autoencoder (F-VAE) for high-fedelity video compression. (UCL FYP, supervised by Dr. Kaan Aksit)
 - Artificial Intelligence and Possible Application on Medicine. 2022. (Foundation Year Research Project)
 
 #### Game Engine
