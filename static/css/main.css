@@ -55,11 +55,30 @@ section .main-body{
 }
 
 section.mt5 {
-    margin-top: 1.5rem !important;
+    margin-top: 0.5rem !important;
 }
 
 section.md5 {
-    margin-bottom: 1.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+section .container {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+section {
+    padding-top: 0.8rem !important;
+    padding-bottom: 0.8rem !important;
+}
+
+section header {
+    margin-bottom: 0.5rem !important;
+}
+
+section header h2 {
+    margin-bottom: 0.3rem !important;
+    line-height: 1.2 !important;
 }
 
 
