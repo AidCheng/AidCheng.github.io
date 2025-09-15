@@ -1,6 +1,6 @@
 [![aidcheng](https://img.shields.io/badge/AidCheng-github-blue?logo=github)](https://github.com/AidCheng)
 
-Aiden is currently pursuing his undergraduate Computer Science degree at University College London (UCL). He's actively looking for research opportunities in the intersection of Computer Graphs (CG) and Machine Learng. His most recent research involves Image Compression using Gaussian Splatting and Foveated VAE reconstruction. 
+Aiden is currently pursuing his undergraduate Computer Science degree at University College London (UCL). He's actively looking for research opportunities in the intersection of Computer Graphs (CG) and Machine Learning. His most recent research involves Image Compression using Gaussian Splatting and Foveated VAE reconstruction. 
 
 And YES, he is also a wolf called Jäger in a FURRY world 
 
