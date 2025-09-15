@@ -1,0 +1,3 @@
+- Chinese Academy of Science, Institute of Software. OSPP. Reconstructed Mega API
+- Private Shipping Company, Head of Development, Go Cloud Project
+- Intel Corp, Student Developer, Audio Spectrum Analyser with LLM 
